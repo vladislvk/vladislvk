@@ -3,7 +3,6 @@
 <h4>My name's Vladislav</h4>
 <h4>I'm a Frontend developer</h4>
 <hr />
-<br />
 
 ## 👾 Languages and tools
 
